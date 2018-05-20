@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/commons-email-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/winium-webdriver-0.1.0-1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/winium-webdriver-0.1.0-1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="lib/Extent Report/extentreports-3.1.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
